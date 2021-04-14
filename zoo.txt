@@ -1,5 +1,7 @@
-#Animals found in a zoo
+#Animals found in a zoos
 
 1. RED-EYED TREE FROG
 2. BLUE PEAFOWL
 3. NORTHERN GIRAFFE
+4. SULAWESI CRESTED MACAQUE
+5. URAL OWL
